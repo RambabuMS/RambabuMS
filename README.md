@@ -3,6 +3,7 @@
 <p>Welcome to my Portfolio! </br> I'm Rambabu, Learning MERN Stack web development with full of enthusiasm <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Tamil Nadu.</b> 
 
 
+
 - 🔭 I’m currently working on Creating projects   
 - 🌱 I’m currently learning MERN Stack Web Development
 - 👯 I’m looking to get a job as Full Stack Web Developer
@@ -11,7 +12,10 @@
 - 📫 How to reach me: raambabu96@gmail.com
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun facts: .You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
-- ...Be cool Accept everything as it is in life chill in it!!!
+-    ...Be cool Accept everything as it is in life chill in it!!!
+
+
+
 
 
 ## ⚡ Things I code with
