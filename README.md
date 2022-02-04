@@ -18,7 +18,7 @@
 
 - 😄 Pronouns: **He/Him**
 
-- ⚡ Fun facts: You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
+- ⚡ Fun facts: You know you're a programmer when you spend a day to find the problem and then fix it with one line of code.
 -    ...Be cool Accept everything as it is in life chill in it!!!
 
 
