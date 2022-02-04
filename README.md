@@ -58,7 +58,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RambabuMS&layout=compact&theme=radical&langs_count=6)
 
-<img src="https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" alt="coder-image" width="400" height="250"/>
 
 
 
