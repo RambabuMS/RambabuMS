@@ -8,6 +8,7 @@
 - 🤔 I’m looking for help with learning new Technologies
 - 💬 Ask me about self-help fitness and coding
 - 📫 How to reach me: raambabu96@gmail.com
+- 😄 Pronouns: **He/Him**
 - ⚡ Fact: ...Be cool Accept as it is in life
 
 
@@ -23,6 +24,10 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 
+  <div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+</div>
+</p>
   
 
 
