@@ -39,7 +39,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RambabuMS&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RambabuM&layout=compact&theme=radical&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RambabuMS&layout=compact&theme=radical&langs_count=6)
 
 
 
