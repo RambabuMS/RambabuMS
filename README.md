@@ -31,6 +31,20 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 </p>
+
+
+## 😄 Cool Streak Stats
+
+![Rambabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RambabuMS&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RambabuMS&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RambabuM&layout=compact&theme=radical&langs_count=6)
+
+
+
+
+
   
 
 
