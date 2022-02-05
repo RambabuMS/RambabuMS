@@ -4,20 +4,21 @@
 
 <p align="center">
 - 🔭 I’m currently working on Creating projects 
-
+  <br>
 - 🌱 I’m currently learning MERN Stack Web Development
-
+   <br>
 - 👯 I’m looking to get a job as Full Stack Web Developer
-
+<br>
 - 🤔 I’m looking for help with learning new Technologies
-
+<br>
 - 💬 Ask me about self-help fitness and coding
-
+<br>
 - 📫 How to reach me: raambabu96@gmail.com
-
+<br>
 - 😄 Pronouns: **He/Him**
-
+<br>
 - ⚡ Fun facts: You know you're a programmer when you spend a day to find the problem and then fix it with one line of code.
+  <br>
 -    ...Be cool Accept everything as it is in life chill in it!!!
   </p><br />
 
