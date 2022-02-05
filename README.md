@@ -51,6 +51,10 @@ I'm Rambabu, Learning MERN Stack web development with full of enthusiasm <img sr
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)" />
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" />
+    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-0F1E25?style=flat-square&logo=netlify&logoColor=white)
+
 
     
 
