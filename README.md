@@ -17,7 +17,7 @@
 - 🤔 I’m looking for help with learning new Technologies
 
 - 💬 Ask me about self-help fitness and coding
-- 
+
 - 📫 How to reach me: raambabu96@gmail.com
 
 - 😄 Pronouns: **He/Him**
