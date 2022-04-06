@@ -10,15 +10,14 @@ Welcome to my Portfolio!
 I'm Rambabu, Learning MERN Stack web development with full of enthusiasm <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Tamil Nadu.</b> 
 
 
-- 🔭 I’m currently working on Creating projects 
  
-- 🌱 I’m currently learning MERN Stack Web Development
+- 🌱 I’m currently working on MERN Stack Web projects
   
 - 👯 I’m looking to get a job as Full Stack Web Developer
 
 - 🤔 I’m looking for help with learning new Technologies
 
-- 💬 Ask me about self-help fitness and coding
+- 💬 Ask me about self-help books self motivation fitness and coding
 
 - 📫 How to reach me: raambabu96@gmail.com
 
