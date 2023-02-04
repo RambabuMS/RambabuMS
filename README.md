@@ -11,9 +11,7 @@ I'm Rambabu, Learning MERN Stack web development with full of enthusiasm <img sr
 
 
  
-- 🌱 I’m currently working on MERN Stack projects
-  
-- 👯 I’m looking to get a job as Full Stack Web Developer
+- 🌱 I’m currently working as MERN Stack developer
 
 - 🤔 I’m looking for help with learning new Technologies
 
